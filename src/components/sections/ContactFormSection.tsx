@@ -24,8 +24,8 @@ export default function ContactFormSection() {
                 <h3 className="text-lg font-semibold text-gray-900">Address</h3>
                 <p className="mt-1 text-gray-600">
                   123 Business Street<br />
-                  Tech City, TC 12345<br />
-                  United States
+                  Phnom Penh City, TC 12345<br />
+                  Cambodia
                 </p>
               </div>
             </div>
@@ -53,7 +53,7 @@ export default function ContactFormSection() {
               <div>
                 <h3 className="text-lg font-semibold text-gray-900">Phone</h3>
                 <p className="mt-1 text-gray-600">
-                  <a href="tel:+11234567890" className="hover:text-primary-600">+1 (123) 456-7890</a>
+                  <a href="tel:+11234567890" className="hover:text-primary-600">+855 (123) 456-7890</a>
                 </p>
               </div>
             </div>

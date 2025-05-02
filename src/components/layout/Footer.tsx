@@ -92,13 +92,13 @@ export default function Footer() {
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
             <address className="not-italic text-gray-400 space-y-2">
               <p>123 Business Street</p>
-              <p>Tech City, TC 12345</p>
-              <p>United States</p>
+              <p>Phnom Penh, TC 12345</p>
+              <p>Cambodia</p>
               <p className="mt-4">
                 <a href="mailto:info@hiqserve.com" className="hover:text-white">info@hiqserve.com</a>
               </p>
               <p>
-                <a href="tel:+11234567890" className="hover:text-white">+1 (123) 456-7890</a>
+                <a href="tel:+11234567890" className="hover:text-white">+855 (123) 456-7890</a>
               </p>
             </address>
           </div>
